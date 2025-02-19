@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables (contains secrets)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated or temporary files
+codebase.txt
+
+# OS-specific
+.DS_Store
+
+# Coverage, logs, or other ephemeral files
+coverage/
+*.log
+
+pack.py
+
+tests/
+src/
